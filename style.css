@@ -1,0 +1,128 @@
+#topHeader{
+    background-color:ghostwhite;
+    border: 1px solid #ebebeb;
+}
+#topHeader a{
+    font-weight: 600;
+    font-size: 0.89rem;
+    color: rgb(22, 40, 99);
+    text-decoration: none;
+}
+.bottomHeader{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* START : Footer */
+.footer{
+    background-color: #34495e;
+
+}
+.logo{
+   text-decoration: none;
+   color: white;
+   font-size: 2rem;
+   font-weight: 600;
+}
+.top-footer p{
+    color: white;
+    font-weight: 600;
+}
+.top-footer a{
+    color: white;
+    text-decoration: none;
+}
+.f-icon{
+    color: white;
+}
+.f-icon:hover{
+    color: #212529;
+}
+.top-footer h3{
+    color: white;
+}
+.bottom-footer{
+    background-color: #212529;
+    padding-right: auto;
+}
+.bottom-footer p{
+    color: white;
+}
+
+/* END: Footer */
+
+/* Start : Homepage first section */
+
+.top-hero-section{
+    background-color: #3498da;
+    color: white;
+}
+
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+
+/* End : Homepage first section */
+
+/* Start : Homepage Third section */
+
+.requirements-section{
+    background-color: #004d80;
+    color: white;
+}
+/* End : Homepage third section */
+
+/* Start : Homepage fifth section */
+
+.home-newsletter{
+    background-color: #3498da;
+    color: white;
+}
+
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+    min-height: 50px;
+    background-color: #243c4f;
+    border-radius: 0 20px 20px 0;
+    color: #fff;
+}
+/* End : Homepage fifth section */
+
+.clients-section{
+    background-color: #f0f0f0;
+  }
+/* START-------------------- of About page ---------------------- */ 
+  .breadcrumbs-section{
+    background-color: #e9ecef;
+  }
+/* END-------------------- of About page ---------------------- */
+  
+/* START-------------------- of Contact Us Page ---------------------- */
+.address p{
+    font-weight: 600;
+  
+  }
+  
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    border: 1px solid rgb(63, 71, 80);
+}
+  
+  
+  
+  
+  
