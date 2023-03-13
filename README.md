@@ -1,3 +1,3 @@
 # Bootstrap-Responsive-Site
 
-###Live: bs-company-site-responsive.netlify.app
+Live: https://bs-company-site-responsive.netlify.app/
